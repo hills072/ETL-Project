@@ -1,2 +1,2 @@
-# ETL-Project
-ETL project on Art History data from Kaggle
+A note on our data: This data can be found here:https://www.kaggle.com/momanyc/museum-collection?select=artists.csv <br>
+This data contains two .csv files: artists.csv and artworks.csv that describe the artworks at the Museum of Modern Art (MoMA) in New York City.
