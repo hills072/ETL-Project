@@ -13,8 +13,7 @@ create table artworks (
 		date varchar,
 		department varchar,
 		classification varchar,
-		medium varchar,
-		FOREIGN KEY (artist_id) REFERENCES artists(artist_id)
+		medium varchar
 	);
-			
-select * from artworks
+drop table artworks		
+select * from artists
