@@ -14,6 +14,6 @@ Steps:
 1. Type `jupyter notebook` and then hit Enter.
 1. Click on `Kernel` on the top menu bar, and then select `Clear Kernel & Run All`.
 1. Go back to pgAdmin and highlight `select * from artists` to see that the data loaded correctly.
-1. Highlight the `join` block of code and hit the `F5` key.
-A note on our data: This data can be found here:https://www.kaggle.com/momanyc/museum-collection?select=artists.csv <br>
+1. Highlight the `join` block of code and hit the `F5` key.<br>
+A note on our data: This data can be found here:https://www.kaggle.com/momanyc/museum-collection?select=artists.csv  <br>
 This data contains two .csv files: artists.csv and artworks.csv that describe the artworks at the Museum of Modern Art (MoMA) in New York City.
